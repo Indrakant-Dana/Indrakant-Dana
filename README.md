@@ -5,9 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shivaylamba@gmail.com)](mailto:ik.dana24@gmail.com) -->
 <!-- [![Twitter Badge](http://img.shields.io/badge/-@itsikD-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/its_ikD)](https://twitter.com/its_ikD)  -->
 
-<br />
-
-
 ### About Me 🚀
 🎓 I’m a student currently in my junior year pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about Web Dev, Competitive Programming & I enjoy learning new things. </br>
@@ -16,7 +13,7 @@
 - 🌱 I’m currently learning BackEnd
 - 👯 I’m looking to collaborate on FrontEnd
 - 💬 Ask me about Web Dev, DSA, Oppurtunities, Productivity
-- 📫 How to reach me: 
+- 📫 How to reach me: <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-Indrakant_Dana-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/indrakant-dana/)](https://www.linkedin.com/in/indrakant-dana/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/its_ikD?style=social)](https://twitter.com/its_ikD)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shivaylamba@gmail.com)](mailto:ik.dana24@gmail.com)
@@ -40,7 +37,7 @@
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></code>
-<code><img width="100" src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png"></code>
+<code><img width="70" src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png"></code>
 <code><img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
