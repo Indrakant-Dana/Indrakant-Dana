@@ -10,12 +10,12 @@
 🎓 I’m a student currently in my junior year pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about Web Dev, Competitive Programming & I enjoy learning new things. </br>
 🎇 You can visit my portfolio too: 👉 <a href="https://its-ikd.tech/">
-  <img align="left" width="26px" src="https://user-images.githubusercontent.com/60315832/136912926-00052f6f-7daa-4870-b296-f1869c71344f.png" />
+  <img width="26px" src="https://user-images.githubusercontent.com/60315832/136912926-00052f6f-7daa-4870-b296-f1869c71344f.png" />
 </a>
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
@@ -29,7 +29,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svgg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
