@@ -15,9 +15,9 @@
 - 💬 Ask me about Web Dev, DSA, Oppurtunities, Productivity
 - 📫 How to reach me: <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Indrakant_Dana-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/indrakant-dana/)](https://www.linkedin.com/in/indrakant-dana/)<br/>
-[![Twitter Follow](https://img.shields.io/twitter/follow/its_ikD?style=social)](https://twitter.com/its_ikD)<br/>
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shivaylamba@gmail.com)](mailto:ik.dana24@gmail.com)
+    [![Linkedin Badge](https://img.shields.io/badge/-Indrakant_Dana-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/indrakant-dana/)](https://www.linkedin.com/in/indrakant-dana/)<br/>
+    [![Twitter Follow](https://img.shields.io/twitter/follow/its_ikD?style=social)](https://twitter.com/its_ikD)<br/>
+    [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shivaylamba@gmail.com)](mailto:ik.dana24@gmail.com)
 <!-- [![Twitter Badge](http://img.shields.io/badge/-@itsikD-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/its_ikD)](https://twitter.com/its_ikD)  -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Speed Cuber.
