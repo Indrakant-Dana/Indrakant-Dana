@@ -9,13 +9,11 @@
 ### About Me 🚀
 🎓 I’m a student currently in my junior year pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about Web Dev, Competitive Programming & I enjoy learning new things. </br>
-🎇 You can visit my portfolio too: 👉 <a href="https://its-ikd.tech/">
-  <img width="26px" src="https://user-images.githubusercontent.com/60315832/136912926-00052f6f-7daa-4870-b296-f1869c71344f.png" />
-</a>
+🎇 You can visit my portfolio too: 👉 [here!](https://its-ikd.tech/) 
 
 **Languages and Tools:**  
 
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
