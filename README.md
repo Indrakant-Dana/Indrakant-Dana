@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="5px">, I'm [Indrakant!](https://its-ikd.tech/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="15px">, I'm [Indrakant!](https://its-ikd.tech/) 
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Indrakant_Dana-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/indrakant-dana/)](https://www.linkedin.com/in/indrakant-dana/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/its_ikD?style=social)](https://twitter.com/its_ikD)
